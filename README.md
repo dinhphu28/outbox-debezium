@@ -4,4 +4,5 @@
 Make test
 ```
 
+Access kafka UI at http://localhost:8080/
 ```
